@@ -1,23 +1,23 @@
 # DATA-ANALYSIS-MSQL-IMPORTING-A-DATASET-INTO-MYSQL-DATABASE
 
-![image](https://github.com/user-attachments/assets/5ee82f71-d950-438e-bd8b-83f306562aa9)
 
-![image](https://github.com/user-attachments/assets/9ef1df48-762f-4cae-afba-7f01f0ee7db4)
+![image](https://github.com/user-attachments/assets/bc78f37e-7367-4167-a27b-61b9b8aeb007)
 
-![image](https://github.com/user-attachments/assets/6a871c1d-816c-4a61-87c1-38413619bdef)
+![image](https://github.com/user-attachments/assets/5b2d9204-aaa0-41d5-9c94-22e6ce96b393)
 
-![image](https://github.com/user-attachments/assets/31ad4c62-56ab-427a-a580-530e11472fad)
+![image](https://github.com/user-attachments/assets/ae57049a-ec12-4f64-b349-ed783fc856b3)
 
-![image](https://github.com/user-attachments/assets/ec2b7e0c-bc93-4cab-8f4d-a9ed4d77497c)
+![image](https://github.com/user-attachments/assets/02a0fbb8-0517-4d22-ae40-e5b4700c5258)
 
-![image](https://github.com/user-attachments/assets/75436d48-5761-4dc6-8f74-943eebb85c19)
+![image](https://github.com/user-attachments/assets/f8991307-feb3-4a93-b29c-d5d883b84abb)
 
-![image](https://github.com/user-attachments/assets/71125621-1be1-413a-82ca-0f70d4e341a0)
+![image](https://github.com/user-attachments/assets/4e1f6c9f-7905-4d68-b729-d8d5d8045880)
 
-![image](https://github.com/user-attachments/assets/74d4988a-4077-42d4-a666-4bbc79426a4e)
+![image](https://github.com/user-attachments/assets/98ea04b8-b3c7-4430-bfaf-8a8afb84731d)
 
-![image](https://github.com/user-attachments/assets/3d8051a4-a4a3-4c84-9592-be186ce55d08)
+![image](https://github.com/user-attachments/assets/f0829b21-df83-4664-a340-e774f9c1b7de)
 
-![image](https://github.com/user-attachments/assets/7bc53845-1eeb-4683-8eca-7b98352e0d4f)
+![image](https://github.com/user-attachments/assets/4a9e4773-e2fa-4485-97fd-ae046753814f)
 
+![image](https://github.com/user-attachments/assets/f08812dc-0075-418d-ac57-7ada71ebaca4)
 
